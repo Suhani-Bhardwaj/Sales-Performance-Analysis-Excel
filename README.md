@@ -53,8 +53,7 @@ Using this dashboard, users can identify:
 * `sales-dashboard.png` – Dashboard screenshot
 
 ## Dashboard Preview
-
-(See sales-dashboard.png file)
+![Sales Dashboard](sales-dashboard.png)
 
 ## Project Purpose
 
